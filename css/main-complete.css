@@ -21,6 +21,7 @@ http://griffis.edumedia.ca/mad9013/html-only/saturn.v1.jpg
 *{
     padding: 0;
     margin: 0;
+	box-sizing: border-box;
     font-family: 'Helvetica Neue', Calibri, Verdana, sans-serif;
 	
 }
